@@ -1,0 +1,14 @@
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Repository.deps.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Repository.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.csprojAssemblyReference.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.AssemblyInfoInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.AssemblyInfo.cs
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Repository.runtimeconfig.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Repository.runtimeconfig.dev.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Repository.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Models.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Debug\netcoreapp2.1\Pokemon.Models.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.csproj.CopyComplete
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Debug\netcoreapp2.1\Pokemon.Repository.pdb

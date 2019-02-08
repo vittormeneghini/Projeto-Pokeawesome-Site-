@@ -1,0 +1,27 @@
+﻿@model Pokemon.Applications.ViewModels.PlayerViewModel
+
+@{
+    ViewData["Title"] = "_AddPlayer";
+    Layout = null;
+}
+
+
+<div class="col-md-6">
+    <label>Nome</label>    
+    <input type="text" class="form-control" id="txt-name-player" placeholder="Digite o nome do seu personagem" />
+</div>
+<div class="col-md-6">
+    <label>Mundo</label>
+    <input type="text" class="form-control" value="PokeAwesome-World" disabled="" />
+</div>
+
+<div class="col-md-4" style="padding-top: 10px;">
+    <input type="radio" name="gender-radio" value="Treinador" />@Html.Label("Treinador")
+    <input type="radio" name="gender-radio" value="Treinadora" />@Html.Label("Treinadora")
+</div>
+
+<div class="col-md-12">
+    <button class="btn btn-success" type="button" onclick="RegisterPlayer();">Adicionar</button>
+</div>
+
+

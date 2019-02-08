@@ -1,0 +1,311 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+<!-- ======== Region: #content ======== -->
+<div id="content">
+    <!--Showcase-->
+    <div class="showcase block block-border-bottom-grey">
+        <div class="container">
+            <h2 class="block-title">
+                Notícias
+            </h2>
+            <p>
+                Todos eventos listados abaixo sem data são previsões, os que estiverem com data entregaremos no prazo exato.
+            </p>
+            <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="~/img/slides/megaspokemon.jpg" alt="Megas" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Implementação de Megas</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Implementação de Megas</a>
+                        </h4>
+                       
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="~/img/slides/megaspokemon2.jpg" alt="Megas" class="img-responsive underlay" style="width: 275px; height:152px;">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Correção de Megas</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Correção de Megas</a>
+                        </h4>
+                        
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="~/img/slides/mapapokemon.jpg" alt="Mapa" class="img-responsive underlay" style="width: 275px; height:152px;">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Correção de Bugs no Mapa</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Correção de Bugs no Mapa</a>
+                        </h4>
+                    
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="~/img/slides/dollarPokemon.jpg" alt="Money" class="img-responsive underlay" style="width: 275px; height:152px;">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Sistema de vip</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Sistema de Vip</a>
+                        </h4>
+                        
+                    </div>
+                </div>
+                @*<div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project5.png" alt="Project 5 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 5</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 5</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project6.png" alt="Project 6 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 6</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 6</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project7.png" alt="Project 7 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 7</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 7</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project8.png" alt="Project 8 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 8</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 8</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project9.png" alt="Project 9 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 9</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 9</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project10.png" alt="Project 10 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 10</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 10</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project11.png" alt="Project 11 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 11</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 11</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="#" class="overlay-wrapper">
+                        <img src="../img/showcase/project12.png" alt="Project 12 image" class="img-responsive underlay">
+                        <span class="overlay">
+                            <span class="overlay-content"> <span class="h4">Project 12</span> </span>
+                        </span>
+                    </a>
+                    <div class="item-details bg-noise">
+                        <h4 class="item-title">
+                            <a href="#">Project 12</a>
+                        </h4>
+                        <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+                    </div>
+                </div>*@
+            </div>
+        </div>
+    </div>
+    <!-- Services -->
+    @*<div class="services block block-bg-gradient block-border-bottom">
+        <div class="container">
+            <h2 class="block-title">
+                Nossos serviços
+            </h2>
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <span class="fa-stack fa-5x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-group fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="text-weight-strong">
+                        Satisfação dos nossos players
+                    </h4>
+                    <p>Nosso maior foco é a satisfação de nossos players por esse motivo todas atualizações de bugs reportados terão recompensas.</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <span class="fa-stack fa-5x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-pencil fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="text-weight-strong">
+                        Controle de Contas
+                    </h4>
+                    <p>Nosso gerenciador de c.</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <span class="fa-stack fa-5x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-cogs fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="text-weight-strong">
+                        Desenvolvimento
+                    </h4>
+                    <p>Nossa equipe de desenvolvedores são totalmente voltados a desenvolver coisas novas para o game e corrigir erros, não focamos em aperfeiçoar coisas prontas.</p>
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+    <!--
+    Background image callout with CSS overlay
+    Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQuery .block-bg-overlay = overlays the background image, colour is inherited from block-bg-* classes .block-bg-overlay-NUMBER = determines opcacity value of overlay from 1-9 (default is 5) ie. .block-bg-overlay-2 or .block-bg-overlay-6
+    -->
+    <div class="block block-pd-sm block-bg-grey-dark block-bg-overlay block-bg-overlay-6 text-center" data-block-bg-img="https://picjumbo.imgix.net/HNCK1088.jpg?q=40&amp;w=1650&amp;sharp=30" data-stellar-background-ratio="0.3">
+        <h2 class="h-xlg h1 m-a-0">
+            <span data-counter-up>@ViewBag.QtdOnline</span>
+        </h2>
+        <h3 class="h-lg m-t-0 m-b-lg">
+            Players Online em nosso server!
+        </h3>
+        <p>
+            <a href="/Download" class="btn btn-more btn-lg i-right">Começe a jogar! <i class="fa fa-angle-right"></i></a>
+        </p>
+    </div>
+    <!--Customer testimonial & Latest Blog posts-->
+    <div class="testimonials block-contained">
+        <div class="row">
+            <!--Customer testimonial-->
+            <div class="col-md-6 m-b-lg">
+                <h3 class="block-title">
+                    Sobre
+                </h3>
+                <blockquote>
+                    <p>Nosso maior foco é produzir conteúdos para que vocês consigam ter um game relaxante e competitivo!</p>
+                    <img src="~/img/slides/logoPikachu.png" alt="Charles Spencer Chaplin">
+                    <small>
+                        <strong>Pokemon Awesome</strong>
+                        <br>
+                        Grupo focado no desenvolvimento do rpg.
+                    </small>
+                </blockquote>
+            </div>
+            <!--Latest Blog posts-->
+            <div class="col-md-6 blog-roll">
+                <h3 class="block-title">
+                    Nosso Calendário
+                </h3>
+                <!-- Blog post 1-->
+                <div class="media">
+                    <div class="media-left hidden-xs">
+                        <!-- Date desktop -->
+                        <div class="date-wrapper"> <span class="date-m">Março</span> <span class="date-d">01</span> </div>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">
+                            <a href="#" class="text-weight-strong">Inauguração do servidor</a>
+                        </h4>
+                        <!-- Meta details mobile -->
+                        <ul class="list-inline meta text-muted visible-xs">
+                            <li><i class="fa fa-calendar"></i> <span class="visible-md">Inauguração:</span>01 Março 2019</li>
+                            <li><i class="fa fa-user"></i> <a href="#">PokeAwesome</a></li>
+                        </ul>
+                        <p>
+                            <strong>Iremos disponibilizar o cliente para download.</strong>
+                        </p>
+                    </div>
+                </div>
+                <!-- Blog post 2 -->
+                <div class="media">
+                    <div class="media-left hidden-xs">
+                        <!-- Date desktop -->
+                        <div class="date-wrapper"> <span class="date-m">Maio</span> <span class="date-d">18</span> </div>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">
+                            <a href="#" class="text-weight-strong">Primeiro Torneio</a>
+                        </h4>
+                        <!-- Meta details mobile -->
+                        <ul class="list-inline meta text-muted visible-xs">
+                            <li><i class="fa fa-calendar"></i> <span class="visible-md">Torneio:</span>18 Março 2019</li>
+                            <li><i class="fa fa-user"></i> <a href="#">PokeAwesome</a></li>
+                        </ul>
+                        <p>
+                            Iremos realizar o primeiro torneio do servidor.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\bin\Debug\netcoreapp2.1\Pokemon.Database.deps.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\bin\Debug\netcoreapp2.1\Pokemon.Database.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\bin\Debug\netcoreapp2.1\Pokemon.Database.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.csprojAssemblyReference.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.csproj.CoreCompileInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.AssemblyInfoInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.AssemblyInfo.cs
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Database\obj\Debug\netcoreapp2.1\Pokemon.Database.pdb

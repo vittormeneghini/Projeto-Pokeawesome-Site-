@@ -1,0 +1,11 @@
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\bin\Debug\netcoreapp2.1\Pokemon.Models.deps.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\bin\Debug\netcoreapp2.1\Pokemon.Models.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.csproj.CoreCompileInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.AssemblyInfoInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.AssemblyInfo.cs
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\bin\Debug\netcoreapp2.1\Pokemon.Models.runtimeconfig.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\bin\Debug\netcoreapp2.1\Pokemon.Models.runtimeconfig.dev.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\bin\Debug\netcoreapp2.1\Pokemon.Models.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Models\obj\Debug\netcoreapp2.1\Pokemon.Models.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.deps.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.runtimeconfig.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.runtimeconfig.dev.json
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.pdb
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.csprojAssemblyReference.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.AssemblyInfoInputs.cache
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.AssemblyInfo.cs
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.dll
+C:\Users\VittorMeneghini\Desktop\Pokemon\Pokemon.Repository\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\Pokemon.Repository.pdb
