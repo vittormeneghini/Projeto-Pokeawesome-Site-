@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Database\\Pokemon.Database.csproj",
+      "projectUniqueName": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Database\\Pokemon.Database.csproj",
       "projectName": "Pokemon.Database",
-      "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Database\\Pokemon.Database.csproj",
+      "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Database\\Pokemon.Database.csproj",
       "packagesPath": "C:\\Users\\VittorMeneghini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Database\\obj\\",
+      "outputPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

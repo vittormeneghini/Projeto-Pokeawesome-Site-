@@ -12745,11 +12745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Applications\\Pokemon.Applications.csproj",
+      "projectUniqueName": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Applications\\Pokemon.Applications.csproj",
       "projectName": "Pokemon.Applications",
-      "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Applications\\Pokemon.Applications.csproj",
+      "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Applications\\Pokemon.Applications.csproj",
       "packagesPath": "C:\\Users\\VittorMeneghini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Applications\\obj\\",
+      "outputPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Applications\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12768,11 +12768,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Models\\Pokemon.Models.csproj": {
-              "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Models\\Pokemon.Models.csproj"
+            "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Models\\Pokemon.Models.csproj": {
+              "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Models\\Pokemon.Models.csproj"
             },
-            "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Repository\\Pokemon.Repository.csproj": {
-              "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\Pokemon\\Pokemon.Repository\\Pokemon.Repository.csproj"
+            "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Repository\\Pokemon.Repository.csproj": {
+              "projectPath": "C:\\Users\\VittorMeneghini\\Desktop\\pokeawesome-site\\Pokemon.Repository\\Pokemon.Repository.csproj"
             }
           }
         }
